@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Service
 ServiceTypes=Krita/PythonPlugin
-X-KDE-Library=SliceLayer
+X-KDE-Library=krita-slicer
 X-Python-2-Compatible=false
 Name=Slice Layer
 Comment=Split active layer into slices
