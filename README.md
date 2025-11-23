@@ -4,7 +4,12 @@ Demo:
 https://www.youtube.com/watch?v=3dQnRbXpVnY
 
 ## Download
-[Download krita-slicer.zip](https://github.com/user-attachments/files/23615453/krita-slicer.zip)
+[Download krita-slicer.zip](https://github.com/alwayshopeless/krita-slicer/releases/download/release-v1.1/release-krita-slicer.zip)
+
+## How to use?
+1. Click Tools -> Scripts -> Slice layer
+2. Enter rows and columns count
+3. Press Apply
 
 ## Install
 Fast:
